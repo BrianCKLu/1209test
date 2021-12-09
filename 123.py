@@ -4,3 +4,4 @@ if __name__ == '__main__':
     print(a)
     print("12/8")
     print("12/9")
+    Print("hihi")
